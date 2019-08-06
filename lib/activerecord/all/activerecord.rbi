@@ -17,6 +17,8 @@ VariadicUntypedFunction = T.type_alias(
   )
 )
 
+TESTLOLOLOLOL
+
 module ActiveRecord::Associations::ClassMethods
   sig do
     params(
